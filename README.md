@@ -1,2 +1,9 @@
-# -mp_prog6_files-
-files needed for program 6
+# Program # X
+Name:  
+Cosc 5730 or 4730
+
+Description:  (how to run the program, phone/emulator screen size, android version ie 10.0)
+
+Anything that doesn't work:
+
+
